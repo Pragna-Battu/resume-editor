@@ -1,4 +1,4 @@
-# Resume Editor - Internship Assignment 
+# Resume Editor
 *A web-based resume editor with AI-enhanced content suggestions*
 ## ✅ Functional Requirements
 
